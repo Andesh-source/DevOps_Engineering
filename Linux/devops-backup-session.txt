@@ -1,0 +1,51 @@
+Linux, Cloud
+
+
+=======================
+Lab:
+WSL -> window subsystem for Linux
+3
+1. Base Linux
+2. WSL
+1. install 
+2. Windown Feature turn on or off
+3. Microsoft store -> ubuntu, kali, centos
+
+3. Oracle viral box (Linux)
+VMware
+kali , ubuntu ,centos
+
+================
+Linux, kali linux, solaris, ubunto,
+
+UNIX -> CIA by NSA USA 
+
+70% Redhat -> Redhat Linux RHEL-9 (Redhat Enterprise Linux)
+
+CentOS (Community Version) / Fedora by Redhat
+
+CIA -> Redhat
+
+61 Billion words per second
+i7 -> 700 /sec
+
+HP => HP-UX
+IBM => AIX
+Sun/Oracle => Solaris
+
+Debain
+Ubuntu (.deb) => Mint , gento
+
+
+Redhat Family yum
+Debain Family apt-get
+
+Science Linux
+Oracle Linux
+
+Hacking:=> kali, parrot , Black Arch, Baradoa Linux
+
+Win => C:/  => FAT/NTFS
+Linux => / =>(root) => ext2/3/4 xfs, ufs , zfs , brfs 
+
+
