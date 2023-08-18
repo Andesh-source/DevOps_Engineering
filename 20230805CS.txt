@@ -1,0 +1,48 @@
+# battary 
+formware
+driver update 
+
+
+# Network and security
+
+socket: transport to transport layers commuciations
+
+applications layer: request and response
+
+what transport service does an app need?
+transport layer provides
+1. data integrity 
+2. timing: some apps (e.g internet telephony, interactive games)required low delay to be effective.
+3. throughput: some apps required minimum amount of throughput to be "effective"
+4. security: encryption, data integrity ( three hand shake)
+
+# Internt transport protocols Services
+
+TCP and UDP  service: 
+TCP: reliable transport between sending and reciving process UDP: unrealible 
+flow control: sender won't overwhelm reciver 
+congestion control: ghalib road wala example
+does not provide: timing, minimum throughput guarantee, security
+connection-oriented: setup required between client and server processess. 
+
+#Securing TCP:
+TCP&UDP
+no encryption
+cleartext passwds sent into socket traverse internet in cleartext.
+##SSL
+provides encrypted TCP conncection
+data integrity 
+end-point authentication
+
+SSL is at app layer
+apps use SSL Libraries 
+
+
+Web and HTTP
+http is "stateless" server maintains no ser
+
+ 
+http responses messegae is very important for devops 
+request id important for developer but we need to understand that
+
+
